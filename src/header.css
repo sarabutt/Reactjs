@@ -1,0 +1,50 @@
+#top{
+    height: 70px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    font-family: cursive;
+}
+.marg{
+    margin-top: 10px;
+}
+.marg button{
+    margin-top: 10px;
+    border-radius: 5px 5px 5px 5px;
+    margin-left: 8%;
+    width: 20%;
+}
+p{
+    margin-left: 5%;
+    margin-top: 8px;
+}
+#top-head{
+    height: 60px;
+}
+#logo{
+    height: 75px;
+    width: 60%;
+}
+#top-nav ul li{
+    list-style: none;
+}
+#top-nav li a{
+    
+    font-family: cursive;
+    margin-top: 20px;
+    font-size: 20px;
+    color: brown;
+    margin-left: 5%;
+    float: left;
+    text-decoration: none;
+    display: inline-block;
+}
+#top-nav li a:hover{
+    color:  darkslategray;
+}
+#search{
+    border-radius: 10px 10px 10px 10px;
+    margin-top: 20px;
+    width: 80%;
+    height: 40px;
+}
